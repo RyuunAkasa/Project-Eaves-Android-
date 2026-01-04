@@ -18,4 +18,4 @@
 Eaves is a custom-built utility, not a commercial product. The Google Play Store requires all apps to have visible user interfaces. Because Eaves is designed to be a "Power Tool"—bypassing screens for instant capture—it deliberately breaks those UI rules.
 
 ## Installation
-Go to the [Releases](github.com/RyuunAkasa/Project-Eaves-Android-/releases/tag/0.2) page to download the latest APK.
+Go to the [Releases](https://github.com/RyuunAkasa/Project-Eaves-Android-/releases/tag/0.2) page to download the latest APK.
